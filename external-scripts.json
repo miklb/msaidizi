@@ -15,5 +15,6 @@
   "hubot-uuid",
   "hubot-url-title",
   "hubot-seen",
-  "hubot-weather"
+  "hubot-weather",
+  "hubot-substitute"
 ]
