@@ -5,6 +5,7 @@
   "author": "Michael Bishop <miklb@miklb.com>",
   "description": "IRC bot for #habari",
   "dependencies": {
+    "githubot": "^1.0.0",
     "hubot": "^2.19.0",
     "hubot-bikeshed": "^1.1.0",
     "hubot-diagnostics": "0.0.1",
