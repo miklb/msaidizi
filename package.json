@@ -29,7 +29,8 @@
     "hubot-thank-you": "0.0.3",
     "hubot-url-title": "^1.5.0",
     "hubot-uuid": "^1.0.0",
-    "hubot-weather": "^1.0.3"
+    "hubot-weather": "^1.0.3",
+    "zippy-quotes": "^1.0.0"
   },
   "engines": {
     "node": "0.10.x"
