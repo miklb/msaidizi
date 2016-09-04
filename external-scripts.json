@@ -9,11 +9,11 @@
   "hubot-redis-brain",
   "hubot-rules",
   "hubot-shipit",
-  "hubot-octocat",
   "hubot-plusplus",
   "hubot-thank-you",
   "hubot-tell",
   "hubot-bikeshed",
   "hubot-uuid",
-  "hubot-url-title"
+  "hubot-url-title",
+  "hubot-github-issue-lookup"
 ]
