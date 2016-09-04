@@ -13,5 +13,7 @@
   "hubot-tell",
   "hubot-bikeshed",
   "hubot-uuid",
-  "hubot-url-title"
+  "hubot-url-title",
+  "hubot-seen",
+  "hubot-weather"
 ]
