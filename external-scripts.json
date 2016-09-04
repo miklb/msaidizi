@@ -15,5 +15,5 @@
   "hubot-bikeshed",
   "hubot-uuid",
   "hubot-url-title",
-  "hubot-github-issue-lookup"
+  "hubot-github-issue-find"
 ]
