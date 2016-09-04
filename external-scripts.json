@@ -14,5 +14,6 @@
   "hubot-thank-you",
   "hubot-tell",
   "hubot-bikeshed",
-  "hubot-uuid"
+  "hubot-uuid",
+  "hubot-url-title"
 ]
