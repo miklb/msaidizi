@@ -12,5 +12,7 @@
   "hubot-octocat",
   "hubot-plusplus",
   "hubot-thank-you",
-  "hubot-tell"
+  "hubot-tell",
+  "hubot-bikeshed",
+  "hubot-uuid"
 ]
