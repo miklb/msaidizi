@@ -16,5 +16,6 @@
   "hubot-url-title",
   "hubot-seen",
   "hubot-weather",
-  "hubot-substitute"
+  "hubot-substitute",
+  "hubot-github-issue-lookup"
 ]
