@@ -18,5 +18,6 @@
   "hubot-weather",
   "hubot-substitute",
   "hubot-github-issue-lookup",
-  "hubot-github-repo-event-notifier"
+  "hubot-github-repo-event-notifier",
+  "hubot-webhook"
 ]
