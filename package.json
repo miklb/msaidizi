@@ -10,6 +10,7 @@
     "hubot-bikeshed": "^1.1.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-github-issue-lookup": "^1.0.1",
+    "hubot-github-repo-event-notifier": "https://github.com/hubot-scripts/hubot-github-repo-event-notifier.git#v1.7.0",
     "hubot-google-images": "^0.2.6",
     "hubot-google-translate": "^0.2.0",
     "hubot-help": "^0.2.0",
