@@ -15,7 +15,7 @@
 #   MrSaints
 
 WIKI_API_URL = "http://wiki.habariproject.org/w/api.php"
-WIKI_EN_URL = "http://wiki.habariproject.org/en/Main_Page"
+WIKI_EN_URL = "http://wiki.habariproject.org/en/"
 
 module.exports = (robot) ->
     robot.respond /wiki search (.+)/i, id: "wikipedia.search", (res) ->
