@@ -9,7 +9,7 @@
     "hubot": "^2.19.0",
     "hubot-bikeshed": "^1.1.0",
     "hubot-diagnostics": "0.0.1",
-    "hubot-es-logger": "^0.1.4",
+    "hubot-es-logger": "^0.2.1",
     "hubot-github-issue-lookup": "^1.0.1",
     "hubot-github-repo-event-notifier": "https://github.com/hubot-scripts/hubot-github-repo-event-notifier.git#v1.7.0",
     "hubot-google-images": "^0.2.6",
